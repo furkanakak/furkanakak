@@ -58,20 +58,4 @@
       height="30"
       width="30"
   /></a>
-  <a href="https://www.instagram.com/furkanakalinff/" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
-      alt="instagram"
-      height="30"
-      width="30"
-  /></a>
-  <a href="https://www.hackerrank.com/furkanAkalin" target="blank"
-    ><img
-      align="center"
-      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"
-      alt="Mail"
-      height="30"
-      width="30"
-  /></a>
 </p>
