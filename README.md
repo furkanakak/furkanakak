@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/80040232/128699548-85060577-6051-4af3-aef6-14fb4bce8921.png)
 
-<h3> Software Engineer 💻 Android Developer </h3>
+<h3> Android Developer </h3>
 
 - 🔭 I’m currently improving my Android skill.
 - 💬 Ask me about Android, Kotlin.
