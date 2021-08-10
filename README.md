@@ -7,7 +7,9 @@
 - 📫 Contact me **furkanakalin66ff@gmail.com**
 
 
+<h3> GitHub Stats </h3>
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=furkanakak&show_icons=true&count_private=true&layout=compact&theme=dark)](#)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
